@@ -1,0 +1,331 @@
+StateName,st_pcode,StateNameMM,District,dt_pcode,DistrictMM,TownshipName,ts_pcode,TownshipNameMM,Voters reported by UEC
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,HINTHADA,MMR017D002,ဟသာတခရိုင်,Hinthada,MMR017008,ဟင်္သာတ,257948
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,HINTHADA,MMR017D002,ဟသာတခရိုင်,Ingapu,MMR017013,အင်္ဂပူ,157517
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,HINTHADA,MMR017D002,ဟသာတခရိုင်,Kyangin,MMR017012,ကြံခင်း,75993
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,HINTHADA,MMR017D002,ဟသာတခရိုင်,Lemyethna,MMR017010,လေးမျက်နှာ,75728
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,HINTHADA,MMR017D002,ဟသာတခရိုင်,Myanaung,MMR017011,မြန်အောင်,165667
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,HINTHADA,MMR017D002,ဟသာတခရိုင်,Zalun,MMR017009,ဇလွန်,123993
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,LABUTTA,MMR017D004,လပ္ပတ္တာခရိုင်,Labutta,MMR017016,လပွတ္တာ,212052
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,LABUTTA,MMR017D004,လပ္ပတ္တာခရိုင်,Mawlamyinegyun,MMR017018,မော်လမြိုင်ကျွန်း,214747
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,MAUBIN,MMR017D005,မအူပင်ခရိုင်,Danubyu,MMR017022,ဓနုဲဖူ,139973
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,MAUBIN,MMR017D005,မအူပင်ခရိုင်,Maubin,MMR017019,မအူပင်,222759
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,MAUBIN,MMR017D005,မအူပင်ခရိုင်,Nyaungdon,MMR017021,ညောင်တုန်း,151805
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,MAUBIN,MMR017D005,မအူပင်ခရိုင်,Pantanaw,MMR017020,ပန်းတနော်,179808
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,MYAUNGMYA,MMR017D003,မြောင်းမြခရိုင်,Einme,MMR017015,အိမ္မဲ,139080
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,MYAUNGMYA,MMR017D003,မြောင်းမြခရိုင်,Myaungmya,MMR017014,မြောင်းမြ,209390
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,MYAUNGMYA,MMR017D003,မြောင်းမြခရိုင်,Wakema,MMR017017,ဝါးခယ်မ,210347
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,PATHEIN,MMR017D001,ပုသိမ်ခရိုင်,Kangyidaunt,MMR017002,ကန်ကြီးထောင့်,123585
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,PATHEIN,MMR017D001,ပုသိမ်ခရိုင်,Kyaunggon,MMR017007,ကျောင်းကုန်း,116972
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,PATHEIN,MMR017D001,ပုသိမ်ခရိုင်,Kyonpyaw,MMR017005,ကျုံပျော်,176258
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,PATHEIN,MMR017D001,ပုသိမ်ခရိုင်,Ngapudaw,MMR017004,ငပုတော,221453
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,PATHEIN,MMR017D001,ပုသိမ်ခရိုင်,Pathein,MMR017001,ပုသိမ်,244172
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,PATHEIN,MMR017D001,ပုသိမ်ခရိုင်,Thabaung,MMR017003,သာပေါင်း,106030
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,PATHEIN,MMR017D001,ပုသိမ်ခရိုင်,Yegyi,MMR017006,ရေကြည်,146400
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,PHYAPON,MMR017D006,ဖျာပုံခရိုင်,Bogale,MMR017024,ဘိုကလေး,216113
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,PHYAPON,MMR017D006,ဖျာပုံခရိုင်,Dedaye,MMR017026,ဒေးဒရဲ,164792
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,PHYAPON,MMR017D006,ဖျာပုံခရိုင်,Kyaiklat,MMR017025,ကျိုက်လတ်,147060
+Ayeyarwady Region,MMR017,ဧရာဝတီတိုင်းဒေသကြီး,PHYAPON,MMR017D006,ဖျာပုံခရိုင်,Pyapon,MMR017023,ဖျာပုံ,203976
+Bago Region (East),MMR007,ပဲခူးတိုင်းဒေသကြီး,BAGO,MMR007D001,ပဲခူးခရိုင်,Bago,MMR007001,ပဲခူး,336740
+Bago Region (East),MMR007,ပဲခူးတိုင်းဒေသကြီး,BAGO,MMR007D001,ပဲခူးခရိုင်,Daik-U,MMR007007,ဒိုက်ဦး,143401
+Bago Region (East),MMR007,ပဲခူးတိုင်းဒေသကြီး,BAGO,MMR007D001,ပဲခူးခရိုင်,Kawa,MMR007003,ကဝ,144982
+Bago Region (East),MMR007,ပဲခူးတိုင်းဒေသကြီး,BAGO,MMR007D001,ပဲခူးခရိုင်,Kyauktaga,MMR007006,ကျောက်တံခါး,177425
+Bago Region (East),MMR007,ပဲခူးတိုင်းဒေသကြီး,BAGO,MMR007D001,ပဲခူးခရိုင်,Nyaunglebin,MMR007005,ညောင်လေးပင်,143636
+Bago Region (East),MMR007,ပဲခူးတိုင်းဒေသကြီး,BAGO,MMR007D001,ပဲခူးခရိုင်,Shwegyin,MMR007008,ရွှေကျင်,67192
+Bago Region (East),MMR007,ပဲခူးတိုင်းဒေသကြီး,BAGO,MMR007D001,ပဲခူးခရိုင်,Thanatpin,MMR007002,သနပ်ပင်,108901
+Bago Region (East),MMR007,ပဲခူးတိုင်းဒေသကြီး,BAGO,MMR007D001,ပဲခူးခရိုင်,Waw,MMR007004,ဝေါ,129144
+Bago Region (East),MMR007,ပဲခူးတိုင်းဒေသကြီး,PYAY,MMR007D002,တောင်ငူခရိုင်,Padaung,MMR008003,ပန်းတောင်း,108468
+Bago Region (East),MMR007,ပဲခူးတိုင်းဒေသကြီး,PYAY,MMR007D002,တောင်ငူခရိုင်,Paukkhaung,MMR008002,ပေါက်ခေါင်း,92385
+Bago Region (East),MMR007,ပဲခူးတိုင်းဒေသကြီး,PYAY,MMR007D002,တောင်ငူခရိုင်,Paungde,MMR008004,ပေါင်းတည်,105941
+Bago Region (East),MMR007,ပဲခူးတိုင်းဒေသကြီး,PYAY,MMR007D002,တောင်ငူခရိုင်,Pyay,MMR008001,ပြည်,173718
+Bago Region (East),MMR007,ပဲခူးတိုင်းဒေသကြီး,PYAY,MMR007D002,တောင်ငူခရိုင်,Shwedaung,MMR008006,ရွှေတောင်,101158
+Bago Region (East),MMR007,ပဲခူးတိုင်းဒေသကြီး,PYAY,MMR007D002,တောင်ငူခရိုင်,Thegon,MMR008005,သဲကုန်း,104419
+Bago Region (West),MMR008,ပဲခူးတိုင်းဒေသကြီး,THAYAWADY,MMR008D001,ပြည်ခရိုင်,Gyobingauk,MMR008014,ကြို့ပင်ကောက်,91714
+Bago Region (West),MMR008,ပဲခူးတိုင်းဒေသကြီး,THAYAWADY,MMR008D001,ပြည်ခရိုင်,Letpadan,MMR008008,လက်ပံတန်း,129228
+Bago Region (West),MMR008,ပဲခူးတိုင်းဒေသကြီး,THAYAWADY,MMR008D001,ပြည်ခရိုင်,Minhla,MMR008009,မင်းလှ,93832
+Bago Region (West),MMR008,ပဲခူးတိုင်းဒေသကြီး,THAYAWADY,MMR008D001,ပြည်ခရိုင်,Monyo,MMR008013,မိုးညို,96417
+Bago Region (West),MMR008,ပဲခူးတိုင်းဒေသကြီး,THAYAWADY,MMR008D001,ပြည်ခရိုင်,Nattalin,MMR008012,နတ္တလင်း,131731
+Bago Region (West),MMR008,ပဲခူးတိုင်းဒေသကြီး,THAYAWADY,MMR008D001,ပြည်ခရိုင်,Okpho,MMR008010,အုတ်ဖို,95620
+Bago Region (West),MMR008,ပဲခူးတိုင်းဒေသကြီး,THAYAWADY,MMR008D002,သာယာဝတီခရိုင်,Thayarwady,MMR008007,သာယာဝတီ,110222
+Bago Region (West),MMR008,ပဲခူးတိုင်းဒေသကြီး,THAYAWADY,MMR008D002,သာယာဝတီခရိုင်,Zigon,MMR008011,ဇီးကုန်း,53234
+Bago Region (West),MMR008,ပဲခူးတိုင်းဒေသကြီး,TOUNGOO,MMR008D002,သာယာဝတီခရိုင်,Htantabin,MMR007014,ထန်းတပင်,83764
+Bago Region (West),MMR008,ပဲခူးတိုင်းဒေသကြီး,TOUNGOO,MMR008D002,သာယာဝတီခရိုင်,Kyaukkyi,MMR007011,ကျောက်ကြီး,74147
+Bago Region (West),MMR008,ပဲခူးတိုင်းဒေသကြီး,TOUNGOO,MMR008D002,သာယာဝတီခရိုင်,Oktwin,MMR007013,အုတ်တွင်း,114798
+Bago Region (West),MMR008,ပဲခူးတိုင်းဒေသကြီး,TOUNGOO,MMR008D002,သာယာဝတီခရိုင်,Phyu,MMR007012,ဖြူး,189204
+Bago Region (West),MMR008,ပဲခူးတိုင်းဒေသကြီး,TOUNGOO,MMR008D002,သာယာဝတီခရိုင်,Taungoo,MMR007009,တောင်ငူ,181289
+Bago Region (West),MMR008,ပဲခူးတိုင်းဒေသကြီး,TOUNGOO,MMR008D002,သာယာဝတီခရိုင်,Yedashe,MMR007010,ရေတာရှည်,148009
+Chin State,MMR004,ချင်းပြည်နယ်,FALAM,MMR004D001,ဖလမ်းခရိုင်,Falam,MMR004001,ဖလန်း,31027
+Chin State,MMR004,ချင်းပြည်နယ်,FALAM,MMR004D001,ဖလမ်းခရိုင်,Tedim,MMR004004,တီးတိန်,45813
+Chin State,MMR004,ချင်းပြည်နယ်,FALAM,MMR004D001,ဖလမ်းခရိုင်,Tonzang,MMR004005,တွန်းဇံ,15916
+Chin State,MMR004,ချင်းပြည်နယ်,HAKA,MMR004D003,ဟားခါးခရိုင်,Hakha,MMR004002,ဟားခါး,29211
+Chin State,MMR004,ချင်းပြည်နယ်,HAKA,MMR004D003,ဟားခါးခရိုင်,Thantlang,MMR004003,ထန်တလန်,27902
+Chin State,MMR004,ချင်းပြည်နယ်,MINDAT,MMR004D002,မင်းတပ်ခရိုင်,Kanpetlet,MMR004008,ကန်ပက်လက်,11484
+Chin State,MMR004,ချင်းပြည်နယ်,MINDAT,MMR004D002,မင်းတပ်ခရိုင်,Matupi,MMR004007,မတူပီ,31762
+Chin State,MMR004,ချင်းပြည်နယ်,MINDAT,MMR004D002,မင်းတပ်ခရိုင်,Mindat,MMR004006,မင်းတပ်,25885
+Chin State,MMR004,ချင်းပြည်နယ်,MINDAT,MMR004D002,မင်းတပ်ခရိုင်,Paletwa,MMR004009,ပလက်ဝ,55328
+Kachin State,MMR001,ကချင်ပြည်နယ်,BHAMO,MMR001D003,ဗန်းမော်ခရိုင်,Bhamo,MMR001010,ဗန်းမော်,84229
+Kachin State,MMR001,ကချင်ပြည်နယ်,BHAMO,MMR001D003,ဗန်းမော်ခရိုင်,Mansi,MMR001013,မန်စီ,32340
+Kachin State,MMR001,ကချင်ပြည်နယ်,BHAMO,MMR001D003,ဗန်းမော်ခရိုင်,Momauk,MMR001012,မိုးမောက်,42403
+Kachin State,MMR001,ကချင်ပြည်နယ်,BHAMO,MMR001D003,ဗန်းမော်ခရိုင်,Shwegu,MMR001011,ရွှေကူ,54065
+Kachin State,MMR001,ကချင်ပြည်နယ်,MOHNYIN,MMR001D002,မိုးညှင်းခရိုင်,Mogaung,MMR001008,မိုးကောင်း,87290
+Kachin State,MMR001,ကချင်ပြည်နယ်,MOHNYIN,MMR001D002,မိုးညှင်းခရိုင်,Mohnyin,MMR001007,မိုးညှင်း,142306
+Kachin State,MMR001,ကချင်ပြည်နယ်,MOHNYIN,MMR001D002,မိုးညှင်းခရိုင်,Hpakant,MMR001009,ဖားကန့်,89488
+Kachin State,MMR001,ကချင်ပြည်နယ်,MYITKYINA,MMR001D001,မြစ်ကြီးနားခရိုင်,Chipwi,MMR001005,ချီဗွေ,11149
+Kachin State,MMR001,ကချင်ပြည်နယ်,MYITKYINA,MMR001D001,မြစ်ကြီးနားခရိုင်,Tsawlaw,MMR001006,ဆော့လော်,3841
+Kachin State,MMR001,ကချင်ပြည်နယ်,MYITKYINA,MMR001D001,မြစ်ကြီးနားခရိုင်,Injangyang,MMR001003,အင်ဂျန်းယန်,1408
+Kachin State,MMR001,ကချင်ပြည်နယ်,MYITKYINA,MMR001D001,မြစ်ကြီးနားခရိုင်,Myitkyina,MMR001001,မြစ်ကြီးနား,178579
+Kachin State,MMR001,ကချင်ပြည်နယ်,MYITKYINA,MMR001D001,မြစ်ကြီးနားခရိုင်,Tanai,MMR001004,တနိုင်း,27312
+Kachin State,MMR001,ကချင်ပြည်နယ်,MYITKYINA,MMR001D001,မြစ်ကြီးနားခရိုင်,Waingmaw,MMR001002,ဝိုင်းမော်,64069
+Kachin State,MMR001,ကချင်ပြည်နယ်,PUTAO,MMR001D004,ပူတာအိုခရိုင်,Khaunglanhpu,MMR001018,ခေါင်လန်ဖူး,7574
+Kachin State,MMR001,ကချင်ပြည်နယ်,PUTAO,MMR001D004,ပူတာအိုခရိုင်,Machanbaw,MMR001016,မချမ်းဘော,5568
+Kachin State,MMR001,ကချင်ပြည်နယ်,PUTAO,MMR001D004,ပူတာအိုခရိုင်,Nawngmun,MMR001017,နောင်မွန်း,4090
+Kachin State,MMR001,ကချင်ပြည်နယ်,PUTAO,MMR001D004,ပူတာအိုခရိုင်,Puta-O,MMR001014,ပူတာအို,39936
+Kachin State,MMR001,ကချင်ပြည်နယ်,PUTAO,MMR001D004,ပူတာအိုခရိုင်,Sumprabum,MMR001015,ဆွမ်ပရာဘွမ်,1934
+Kayah State,MMR002,ကယားပြည်နယ်,BAWLAKHE,MMR002D002,ဘောလခဲခရိုင်,Bawlakhe,MMR002005,ဘောလခဲ,6802
+Kayah State,MMR002,ကယားပြည်နယ်,BAWLAKHE,MMR002D002,ဘောလခဲခရိုင်,Mese,MMR002007,မယ်စဲ့,3984
+Kayah State,MMR002,ကယားပြည်နယ်,BAWLAKHE,MMR002D002,ဘောလခဲခရိုင်,Hpasawng,MMR002006,ဖားဆောင်း,12469
+Kayah State,MMR002,ကယားပြည်နယ်,LOIKAW,MMR002D001,လွိုင်ကော်ခရိုင်,Demoso,MMR002002,ဒီမောဆို,49247
+Kayah State,MMR002,ကယားပြည်နယ်,LOIKAW,MMR002D001,လွိုင်ကော်ခရိုင်,Loikaw,MMR002001,လွိုင်ကော်,84172
+Kayah State,MMR002,ကယားပြည်နယ်,LOIKAW,MMR002D001,လွိုင်ကော်ခရိုင်,Hpruso,MMR002003,ဖရူဆို,17386
+Kayah State,MMR002,ကယားပြည်နယ်,LOIKAW,MMR002D001,လွိုင်ကော်ခရိုင်,Shadaw,MMR002004,ရှားတော,4256
+Kayin State,MMR003,ကရင်ပြည်နယ်,HPA-AN,MMR003D001,ဘားအံခရိုင်,Hlaingbwe,MMR003002,လှိုင်းဘွဲ့,186079
+Kayin State,MMR003,ကရင်ပြည်နယ်,HPA-AN,MMR003D001,ဘားအံခရိုင်,Hpa-an,MMR003001,ဘားအံ,327791
+Kayin State,MMR003,ကရင်ပြည်နယ်,HPA-AN,MMR003D001,ဘားအံခရိုင်,Thandaunggyi,MMR003004,သံတောင်ကြီး,53649
+Kayin State,MMR003,ကရင်ပြည်နယ်,KAWKAREIK,MMR003D003,ကော့ကရိတ်ခရိုင်,Kawkareik,MMR003006,ကော့ကရိတ်,163757
+Kayin State,MMR003,ကရင်ပြည်နယ်,KAWKAREIK,MMR003D003,ကော့ကရိတ်ခရိုင်,Kyainseikgyi,MMR003007,ကြာအင်းဆိပ်ကြီး,66598
+Kayin State,MMR003,ကရင်ပြည်နယ်,MYAWADY,MMR003D002,မြဝတီခရိုင်,Myawaddy,MMR003005,မြဝတီ,89101
+Kayin State,MMR003,ကရင်ပြည်နယ်,PHARPON,MMR003D004,ဖာပွန်ခရိုင်,Hpapun,MMR003003,ဖာပွန်,17998
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,KYAUKSE,MMR010D003,ကျောက်ဆည်ခရိုင်,Kyaukse,MMR010013,ကျောက်ဆည်,173202
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,KYAUKSE,MMR010D003,ကျောက်ဆည်ခရိုင်,Myittha,MMR010015,မြစ်သား,144673
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,KYAUKSE,MMR010D003,ကျောက်ဆည်ခရိုင်,Sintgaing,MMR010014,စဉ့်ကိုင်,103108
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,KYAUKSE,MMR010D003,ကျောက်ဆည်ခရိုင်,Tada-U,MMR010016,တံတားဦး,105756
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,MANDALAY,MMR010D001,မန္တလေးခရိုင်,Amarapura,MMR010006,အမရပူရ,151449
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,MANDALAY,MMR010D001,မန္တလေးခရိုင်,Aungmyaythazan,MMR010001,အောင်မြေသာဇံ,154139
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,MANDALAY,MMR010D001,မန္တလေးခရိုင်,Chanayethazan,MMR010002,ချမ်းအေးသာဇံ,151234
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,MANDALAY,MMR010D001,မန္တလေးခရိုင်,Chanmyathazi,MMR010004,ချမ်းမြသာစည်,192949
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,MANDALAY,MMR010D001,မန္တလေးခရိုင်,Mahaaungmyay,MMR010003,မဟာအောင်မြေ,167452
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,MANDALAY,MMR010D001,မန္တလေးခရိုင်,Patheingyi,MMR010007,ပုသိမ်ကြီး,159496
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,MANDALAY,MMR010D001,မန္တလေးခရိုင်,Pyigyitagon,MMR010005,ပြည်ကြီးတံခွန်,124695
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,MEIKTILA,MMR010D007,မိတ္တီလာခရိုင်,Mahlaing,MMR010029,မလှိုင်,126306
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,MEIKTILA,MMR010D007,မိတ္တီလာခရိုင်,Meiktila,MMR010028,မိတ္ထီလာ,259451
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,MEIKTILA,MMR010D007,မိတ္တီလာခရိုင်,Thazi,MMR010030,သာစည်,148155
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,MEIKTILA,MMR010D007,မိတ္တီလာခရိုင်,Wundwin,MMR010031,ဝမ်းတွင်း,175805
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,MYINGYAN,MMR010D004,မြင်းခြံခရိုင်,Myingyan,MMR010017,မြင်းခြံ,211043
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,MYINGYAN,MMR010D004,မြင်းခြံခရိုင်,Natogyi,MMR010019,နွားထိုးကြီး,154231
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,MYINGYAN,MMR010D004,မြင်းခြံခရိုင်,Ngazun,MMR010021,ငါန်းဇွန်,95462
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,MYINGYAN,MMR010D004,မြင်းခြံခရိုင်,Taungtha,MMR010018,တောင်သာ,176505
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,NYAUNG U,MMR010D005,ညောင်ဦးခရိုင်,Kyaukpadaung,MMR010020,ကျောက်ပန်းတောင်း,220620
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,NYAUNG U,MMR010D005,ညောင်ဦးခရိုင်,Nyaung-U,MMR010022,ညောင်ဦး,197735
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,PYIN OO LWIN,MMR010D002,ပြင်ဦးလွင်ခရိုင်,Madaya,MMR010009,မတ္တရာ,173638
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,PYIN OO LWIN,MMR010D002,ပြင်ဦးလွင်ခရိုင်,Mogoke,MMR010011,မိုးကုတ်,128336
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,PYIN OO LWIN,MMR010D002,ပြင်ဦးလွင်ခရိုင်,Pyinoolwin,MMR010008,ပြင်ဦးလွင်,152879
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,PYIN OO LWIN,MMR010D002,ပြင်ဦးလွင်ခရိုင်,Singu,MMR010010,စဉ့်ကူး,102989
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,PYIN OO LWIN,MMR010D002,ပြင်ဦးလွင်ခရိုင်,Thabeikkyin,MMR010012,သပိတ်ကျဉ်း,96998
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,YAME`THIN,MMR010D006,ရမည်းသင်းခရိုင်,Pyawbwe,MMR010024,ပျော်ဘွယ်,194311
+Mandalay Region,MMR010,မန္တလေးတိုင်းဒေသကြီး,YAME`THIN,MMR010D006,ရမည်းသင်းခရိုင်,Yamethin,MMR010023,ရမည်းသင်း,182110
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,MAGWAY,MMR009D001,မကွေးခရိုင်,Magway,MMR009001,မကွေး,215698
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,MAGWAY,MMR009D001,မကွေးခရိုင်,Yenangyaung,MMR009002,ရေနံချောင်း,119541
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,MAGWAY,MMR009D001,မကွေးခရိုင်,Chauk,MMR009003,ချောက်,156538
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,MAGWAY,MMR009D001,မကွေးခရိုင်,Taungdwingyi,MMR009004,တောင်တွင်းကြီး,196426
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,MAGWAY,MMR009D001,မကွေးခရိုင်,Myothit,MMR009005,မြို့သစ်,119717
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,MAGWAY,MMR009D001,မကွေးခရိုင်,Natmauk,MMR009006,နတ်မောက်,170158
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,MINBU,MMR009D002,မင်းဘူးခရိုင်,Minbu,MMR009007,မင်းဘူး,131113
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,MINBU,MMR009D002,မင်းဘူးခရိုင်,Pwintbyu,MMR009008,ပွင့်ဖြူ,124069
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,MINBU,MMR009D002,မင်းဘူးခရိုင်,Ngape,MMR009009,ငဖဲ,36112
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,MINBU,MMR009D002,မင်းဘူးခရိုင်,Salin,MMR009010,စလင်း,182280
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,MINBU,MMR009D002,မင်းဘူးခရိုင်,Sidoktaya,MMR009011,စေတုတ္တရာ,32509
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,THAYET,MMR009D003,သရက်ခရိုင်,Thayet,MMR009012,သရက်,81575
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,THAYET,MMR009D004,သရက်ခရိုင်,Minhla,MMR009013,မင်းလှ,96967
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,THAYET,MMR009D005,သရက်ခရိုင်,Mindon,MMR009014,မင်းတုန်း,47507
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,THAYET,MMR009D006,သရက်ခရိုင်,Kamma,MMR009015,ကံမ,57437
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,THAYET,MMR009D007,သရက်ခရိုင်,Aunglan,MMR009016,အောင်လံ,175930
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,THAYET,MMR009D008,သရက်ခရိုင်,Sinbaungwe,MMR009017,ဆင်ပေါင်ဝဲ,86987
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,PAKOKKU,MMR009D004,ပခုက္ကူခရိုင်,PakokkU,MMR009018,ပခုက္ကူ,226267
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,PAKOKKU,MMR009D004,ပခုက္ကူခရိုင်,Yesagyo,MMR009019,ရေစကြို,177798
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,PAKOKKU,MMR009D004,ပခုက္ကူခရိုင်,Myaing,MMR009020,မြိုင်,189523
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,PAKOKKU,MMR009D004,ပခုက္ကူခရိုင်,Pauk,MMR009021,ပေါက်,131163
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,PAKOKKU,MMR009D004,ပခုက္ကူခရိုင်,Seikphyu,MMR009022,ဆိပ်ဖြူ,78659
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,GANGAW,MMR009D005,ဂန့်ဂေါခရိုင်,Gangaw,MMR009023,ဂန့်ဂေါ,99316
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,GANGAW,MMR009D005,ဂန့်ဂေါခရိုင်,Tilin,MMR009024,ထီးလင်း,39574
+Magway Region,MMR009,မကွေးတိုင်းဒေသကြီး,GANGAW,MMR009D005,ဂန့်ဂေါခရိုင်,Saw,MMR009025,ဆော,53869
+Mon State,MMR011,မွန်ပြည်နယ်,MAWLAMYINE,MMR011D001,မော်လမြိုင်ခရိုင်,Chaungzon,MMR011003,ချောင်းဆုံ,127249
+Mon State,MMR011,မွန်ပြည်နယ်,MAWLAMYINE,MMR011D001,မော်လမြိုင်ခရိုင်,Kyaikmaraw,MMR011002,ကျိုက္မရော,157468
+Mon State,MMR011,မွန်ပြည်နယ်,MAWLAMYINE,MMR011D001,မော်လမြိုင်ခရိုင်,Mawlamyine,MMR011001,မော်လမြိုင်,205372
+Mon State,MMR011,မွန်ပြည်နယ်,MAWLAMYINE,MMR011D001,မော်လမြိုင်ခရိုင်,Mudon,MMR011005,မုဒုံ,165376
+Mon State,MMR011,မွန်ပြည်နယ်,MAWLAMYINE,MMR011D001,မော်လမြိုင်ခရိုင်,Thanbyuzayat,MMR011004,သံဖြူဇရပ်,124300
+Mon State,MMR011,မွန်ပြည်နယ်,MAWLAMYINE,MMR011D001,မော်လမြိုင်ခရိုင်,Ye,MMR011006,ရေး,168826
+Mon State,MMR011,မွန်ပြည်နယ်,THATON,MMR011D002,သထုံခရိုင်,Bilin,MMR011010,ဘီးလင်း,127021
+Mon State,MMR011,မွန်ပြည်နယ်,THATON,MMR011D002,သထုံခရိုင်,Kyaikto,MMR011009,ကျိုက်ထို,110779
+Mon State,MMR011,မွန်ပြည်နယ်,THATON,MMR011D002,သထုံခရိုင်,Paung,MMR011008,ပေါင်,172157
+Mon State,MMR011,မွန်ပြည်နယ်,THATON,MMR011D002,သထုံခရိုင်,Thaton,MMR011007,သထုံ,175938
+Naypyitaw,MMR018,မန္တလေးတိုင်းဒေသကြီး,OTTARA(NORTH),MMR018D001,နေပြည်တော်ခရိုင်,Tatkon,MMR018003,တပ်ကုန်း,162428
+Naypyitaw,MMR018,မန္တလေးတိုင်းဒေသကြီး,OTTARA(NORTH),MMR018D001,နေပြည်တော်ခရိုင်,Zay Yar Thi Ri,MMR018001,ဇေယျာသီရိ,73060
+Naypyitaw,MMR018,မန္တလေးတိုင်းဒေသကြီး,OTTARA(NORTH),MMR018D001,နေပြည်တော်ခရိုင်,Oke Ta Ra Thi Ri,MMR018008,ဥတ္တရသီရိ,45631
+Naypyitaw,MMR018,မန္တလေးတိုင်းဒေသကြီး,OTTARA(NORTH),MMR018D001,နေပြည်တော်ခရိုင်,Poke Ba Thi Ri,MMR018005,ပုဗ္ဗသီရိ,70697
+Naypyitaw,MMR018,မန္တလေးတိုင်းဒေသကြီး,DEKKHINA(SOUTH),MMR018D002,နေပြည်တော်ခရိုင်,Pyinmana,MMR018006,ပျဉ်းမနား,121812
+Naypyitaw,MMR018,မန္တလေးတိုင်းဒေသကြီး,DEKKHINA(SOUTH),MMR018D002,နေပြည်တော်ခရိုင်,Lewe,MMR018007,လယ်ဝေး,196916
+Naypyitaw,MMR018,မန္တလေးတိုင်းဒေသကြီး,DEKKHINA(SOUTH),MMR018D002,နေပြည်တော်ခရိုင်,Za Bu Thi Ri,MMR018002,ဇမ္ဗူသီရိ,59635
+Naypyitaw,MMR018,မန္တလေးတိုင်းဒေသကြီး,DEKKHINA(SOUTH),MMR018D002,နေပြည်တော်ခရိုင်,Det Khi Na Thi Ri,MMR018004,ဒက္ခိဏသီရိ,22433
+Rakhine State,MMR012,ရခိုင်ပြည်နယ်,KYAUKPYU,MMR012D003,ကျောက်ဖြူခရိုင်,Ann,MMR012014,အမ်း,73799
+Rakhine State,MMR012,ရခိုင်ပြည်နယ်,KYAUKPYU,MMR012D003,ကျောက်ဖြူခရိုင်,Kyaukpyu,MMR012011,ကျောက်ဖြူ,108776
+Rakhine State,MMR012,ရခိုင်ပြည်နယ်,KYAUKPYU,MMR012D003,ကျောက်ဖြူခရိုင်,Munaung,MMR012012,မာန်အောင်,47598
+Rakhine State,MMR012,ရခိုင်ပြည်နယ်,KYAUKPYU,MMR012D003,ကျောက်ဖြူခရိုင်,Ramree,MMR012013,ရမ်းဗြဲ,72128
+Rakhine State,MMR012,ရခိုင်ပြည်နယ်,MAUNGTAW,MMR012D002,မောင်တောခရိုင်,Buthidaung,MMR012010,ဘူးသီးတောင်,36069
+Rakhine State,MMR012,ရခိုင်ပြည်နယ်,MAUNGTAW,MMR012D002,မောင်တောခရိုင်,Maungdaw,MMR012009,မောင်တော,24008
+Rakhine State,MMR012,ရခိုင်ပြည်နယ်,MYAUK U,MMR012D005,စစ်တွေခရိုင်,Kyauktaw,MMR012004,ကျောက်တော်,130730
+Rakhine State,MMR012,ရခိုင်ပြည်နယ်,MYAUK U,MMR012D005,စစ်တွေခရိုင်,Minbya,MMR012005,မင်းပြား,117318
+Rakhine State,MMR012,ရခိုင်ပြည်နယ်,MYAUK U,MMR012D005,စစ်တွေခရိုင်,Mrauk-U,MMR012003,မြောက်ဦး,141446
+Rakhine State,MMR012,ရခိုင်ပြည်နယ်,MYAUK U,MMR012D005,စစ်တွေခရိုင်,Myebon,MMR012006,မြေပုံ,87111
+Rakhine State,MMR012,ရခိုင်ပြည်နယ်,SITTWAY,MMR012D001,စစ်တွေခရိုင်,Pauktaw,MMR012007,ပေါက်တော,98159
+Rakhine State,MMR012,ရခိုင်ပြည်နယ်,SITTWAY,MMR012D001,စစ်တွေခရိုင်,Ponnagyun,MMR012002,ပုဏ္ဏားကျွန်း,94810
+Rakhine State,MMR012,ရခိုင်ပြည်နယ်,SITTWAY,MMR012D001,စစ်တွေခရိုင်,Sittwe,MMR012001,စစ်တွေ,103946
+Rakhine State,MMR012,ရခိုင်ပြည်နယ်,SITTWAY,MMR012D001,စစ်တွေခရိုင်,Rathedaung,MMR012008,ရသေ့တောင်,87875
+Rakhine State,MMR012,ရခိုင်ပြည်နယ်,THANDWE,MMR012D004,သံတွဲခရိုင်,Gwa,MMR012017,ဂွ,47733
+Rakhine State,MMR012,ရခိုင်ပြည်နယ်,THANDWE,MMR012D004,သံတွဲခရိုင်,Toungup,MMR012016,တောင်ကုတ်,105921
+Rakhine State,MMR012,ရခိုင်ပြည်နယ်,THANDWE,MMR012D004,သံတွဲခရိုင်,Thandwe,MMR012015,သံတွဲ,89365
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,HKAMTI,MMR005D008,ခန္တီးခရိုင်,Hkamti,MMR005033,ခန္တီး,25477
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,HKAMTI,MMR005D008,ခန္တီးခရိုင်,Homalin,MMR005034,ဟုမ္မလင်း,127338
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,NAGA SAZ,MMR005D010,နာဂကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ,Lahe,MMR005036,လဟယ်,28398
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,NAGA SAZ,MMR005D010,နာဂကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ,Lay Shi,MMR005035,လေရှီး,8787
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,NAGA SAZ,MMR005D010,နာဂကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ,Nanyun,MMR005037,နန်းယွန်း,25097
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,KALAY,MMR005D005,ကလေးခရိုင်,Kale,MMR005027,ကလေး,235232
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,KALAY,MMR005D005,ကလေးခရိုင်,Kalewa,MMR005028,ကလေးဝ,39594
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,KALAY,MMR005D005,ကလေးခရိုင်,Mingin,MMR005029,မင်းကင်း,77317
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,Kanbalu,MMR005D011,ကန့်ဘလူခရိုင်,Kanbalu,MMR005007,ကန့်ဘလူ,202694
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,Kanbalu,MMR005D011,ကန့်ဘလူခရိုင်,Kyunhla,MMR005008,ကျွန်းလှ,66454
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,Kanbalu,MMR005D011,ကန့်ဘလူခရိုင်,Taze,MMR005011,တန့်ဆည်,137955
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,Kanbalu,MMR005D011,ကန့်ဘလူခရိုင်,Ye-U,MMR005009,ရေဦး,97582
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,KATHA,MMR005D004,ကသာခရိုင်,Banmauk,MMR005023,ဗန်းမောက်,61851
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,KATHA,MMR005D004,ကသာခရိုင်,Indaw,MMR005021,အင်းတော်,80569
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,KATHA,MMR005D004,ကသာခရိုင်,Katha,MMR005020,ကသာ,101815
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,KATHA,MMR005D004,ကသာခရိုင်,Kawlin,MMR005024,ကောလင်း,104939
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,KATHA,MMR005D004,ကသာခရိုင်,Pinlebu,MMR005026,ပင်လည်ဘူး,71884
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,KATHA,MMR005D004,ကသာခရိုင်,Tigyaing,MMR005022,ထီးချိုင့်,82732
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,KATHA,MMR005D004,ကသာခရိုင်,Wuntho,MMR005025,ဝန်းသို,49844
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,MAWLAIK,MMR005D007,မော်လိုက်ခရိုင်,Mawlaik,MMR005031,မော်လိုက်,36702
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,MAWLAIK,MMR005D007,မော်လိုက်ခရိုင်,Paungbyin,MMR005032,ဖေါင်းပြင်,73268
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,MONYWA,MMR005D003,မုံရွာခရိုင်,Ayadaw,MMR005014,အရာတော်,126482
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,MONYWA,MMR005D003,မုံရွာခရိုင်,Budalin,MMR005013,ဘုတလင်,105915
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,MONYWA,MMR005D003,မုံရွာခရိုင်,Chaung-U,MMR005015,ချောင်းဦး,80825
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,MONYWA,MMR005D003,မုံရွာခရိုင်,Monywa,MMR005012,မုံရွာ,259470
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,SAGAING,MMR005D001,စစ်ကိုင်းခရိုင်,Myaung,MMR005003,မြောင်,81693
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,SAGAING,MMR005D001,စစ်ကိုင်းခရိုင်,Myinmu,MMR005002,မြင်းမူ,85966
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,SAGAING,MMR005D001,စစ်ကိုင်းခရိုင်,Sagaing,MMR005001,စစ်ကိုင်း,221336
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,SHWEBO,MMR005D002,ရွှေဘိုခရိုင်,Khin-U,MMR005005,ခင်ဦး,113384
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,SHWEBO,MMR005D002,ရွှေဘိုခရိုင်,Shwebo,MMR005004,ရွှေဘို,208016
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,SHWEBO,MMR005D002,ရွှေဘိုခရိုင်,Tabayin,MMR005010,ဒီပဲယင်း,115560
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,SHWEBO,MMR005D002,ရွှေဘိုခရိုင်,Wetlet,MMR005006,ဝက်လက်,175890
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,TAMU,MMR005D006,တမူးခရိုင်,Tamu,MMR005030,တမူး,69762
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,YINMARPIN,MMR005D009,ယင်းမာပင်ခရိုင်,Kani,MMR005017,ကနီ,99095
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,YINMARPIN,MMR005D009,ယင်းမာပင်ခရိုင်,Pale,MMR005019,ပုလဲ,113977
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,YINMARPIN,MMR005D009,ယင်းမာပင်ခရိုင်,Salingyi,MMR005018,ဆားလင်းကြီး,99111
+Sagaing Region,MMR005,စစ်ကိုင်းတိုင်းဒေသကြီး,YINMARPIN,MMR005D009,ယင်းမာပင်ခရိုင်,Yinmarbin,MMR005016,ယင်းမာပင်,111838
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,DANU SAZ,MMR014D001,ဓနုကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ,Pindaya,MMR014006,ပင်းတယ,54507
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,DANU SAZ,MMR014D001,ဓနုကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ,Ywangan,MMR014007,ရွာငံ,54737
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,HOPAN,MMR015D006,ဟိုပန်ခရိုင်,Hopang,MMR015021,ဟိုပန်,17474
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,HOPAN,MMR015D006,ဟိုပန်ခရိုင်,Mongmao,MMR015008,မိုင်းမော,
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,HOPAN,MMR015D006,ဟိုပန်ခရိုင်,Pangwaun,MMR015007,ပန်ဝိုင်း,
+Shan State (East),MMR016,ရှမ်းပြည်နယ်,KENGTUNG,MMR016D001,ကျိုင်းတုံခရိုင်,Kengtung,MMR016001,ကျိုင်းတုံ,112434
+Shan State (East),MMR016,ရှမ်းပြည်နယ်,KENGTUNG,MMR016D001,ကျိုင်းတုံခရိုင်,Mongkhet,MMR016002,မိုင်းခတ်,16481
+Shan State (East),MMR016,ရှမ်းပြည်နယ်,KENGTUNG,MMR016D001,ကျိုင်းတုံခရိုင်,Mongla,MMR016005,မိုင်းလား,
+Shan State (East),MMR016,ရှမ်းပြည်နယ်,KENGTUNG,MMR016D001,ကျိုင်းတုံခရိုင်,Mongping,MMR016007,မိုင်းပျင်း,35729
+Shan State (East),MMR016,ရှမ်းပြည်နယ်,KENGTUNG,MMR016D001,ကျိုင်းတုံခရိုင်,Mongyang,MMR016003,မိုင်းယန်း,7903
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,KYAUKME,MMR015D003,ကျောက်မဲခရိုင်,Hsipaw,MMR015014,သီပေါ,118585
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,KYAUKME,MMR015D003,ကျောက်မဲခရိုင်,Kyaukme,MMR015012,ကျောက်မဲ,128281
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,KYAUKME,MMR015D003,ကျောက်မဲခရိုင်,Namtu,MMR015015,နမ္မတူ,35508
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,KYAUKME,MMR015D003,ကျောက်မဲခရိုင်,Nawnghkio,MMR015013,နောင်ချို,86961
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,LANGKHO,MMR014D003,လင်ခေးခရိုင်,Langkho,MMR014018,လင်းခေး,37290
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,LANGKHO,MMR014D003,လင်ခေးခရိုင်,Mawkmai,MMR014020,မောက်မယ်,22267
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,LANGKHO,MMR014D003,လင်ခေးခရိုင်,Mongnai,MMR014019,မိုးနဲ,31197
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,LANGKHO,MMR014D003,လင်ခေးခရိုင်,Mongpan,MMR014021,မိုင်းပန်,15961
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,LASHIO,MMR015D001,လားရှိုးခရိုင်,Hseni,MMR015002,သိန်းနီ,35284
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,LASHIO,MMR015D001,လားရှိုးခရိုင်,Kunlong,MMR015020,ကွမ်းလုံ,32590
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,LASHIO,MMR015D001,လားရှိုးခရိုင်,Lashio,MMR015001,လားရှိုး,178977
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,LASHIO,MMR015D001,လားရှိုးခရိုင်,Mongyai,MMR015003,မိုင်းရယ်,39685
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,LASHIO,MMR015D001,လားရှိုးခရိုင်,Tangyan,MMR015004,တန့်ယန်း,105765
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,LAUKINE,MMR015D005,လောက်ကိုင်ခရိုင်,Konkyan,MMR015023,ကုန်းကြမ်း,18412
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,LAUKINE,MMR015D005,လောက်ကိုင်ခရိုင်,Laukkaing,MMR015022,လောက်ကိုင်,28533
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,LOILIN,MMR014D002,လွိုင်လင်ခရိုင်,Kunhing,MMR014014,ကွန်ဟိန်း,38453
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,LOILIN,MMR014D002,လွိုင်လင်ခရိုင်,Kyethi,MMR014015,ကျေးသီး,
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,LOILIN,MMR014D002,လွိုင်လင်ခရိုင်,Laihka,MMR014012,လဲချား,35165
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,LOILIN,MMR014D002,လွိုင်လင်ခရိုင်,Loilen,MMR014011,လွိုင်လင်,84987
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,LOILIN,MMR014D002,လွိုင်လင်ခရိုင်,Monghsu,MMR014017,မိုင်းရှုး,
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,LOILIN,MMR014D002,လွိုင်လင်ခရိုင်,Mongkaing,MMR014016,မိုင်းကိုင်,45731
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,LOILIN,MMR014D002,လွိုင်လင်ခရိုင်,Nansang (North),MMR014013,နမ့်စန်,76439
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,MAKMAN,MMR015D007,ကျိုင်းတုံခရိုင်,Matman,MMR015024,မက်မန်း,10120
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,MAKMAN,MMR015D007,ကျိုင်းတုံခရိုင်,Narphan,MMR015006,နားဖန့်,
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,MAKMAN,MMR015D007,ကျိုင်းတုံခရိုင်,Pangsang,MMR015005,ပန်ဆန်း,
+Shan State (East),MMR016,ရှမ်းပြည်နယ်,MONGHSAT,MMR016D002,မိုင်းဆက်ခရိုင်,Monghsat,MMR016006,မိုင်းဆတ်,40697
+Shan State (East),MMR016,ရှမ်းပြည်နယ်,MONGHSAT,MMR016D002,မိုင်းဆက်ခရိုင်,Mongton,MMR016008,မိုင်းတုံ,30912
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,MONGMIT,MMR015D009,မိုးမိတ်ခရိုင်,Mabein,MMR015018,မဘိန်းမြို့နယ်,25299
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,MONGMIT,MMR015D009,မိုးမိတ်ခရိုင်,Mongmit,MMR015017,မိုးမိတ်မြို့နယ်,44224
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,MUSE,MMR015D002,မူဆယ်ခရိုင်,Kutkai,MMR015011,ကွတ်ခိုင်,123897
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,MUSE,MMR015D002,မူဆယ်ခရိုင်,MuSe,MMR015009,မူဆယ်,93121
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,MUSE,MMR015D002,မူဆယ်ခရိုင်,Namhkan,MMR015010,နမ့်ခမ်း,77311
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,PALAUNG,MMR015D008,ပလောင်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ,Manton,MMR015019,မန်တုန်,23277
+Shan State (North),MMR015,ရှမ်းပြည်နယ်,PALAUNG,MMR015D008,ပလောင်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ,Namhsan (North),MMR015016,နမ့်ဆန်,50880
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,PAO SAZ,MMR014D004,ပအို့ဝ်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ,Hopong,MMR014003,ဟိုပုံး,75072
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,PAO SAZ,MMR014D004,ပအို့ဝ်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ,Hsihseng,MMR014004,ဆီဆိုင်,95770
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,PAO SAZ,MMR014D004,ပအို့ဝ်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ,Pinlaung,MMR014009,ပင်လောင်း,119907
+Shan State (East),MMR016,ရှမ်းပြည်နယ်,TACHILEIK,MMR016D003,တာချီလိတ်ခရိုင်,Monghpyak,MMR016010,မိုင်းဖြတ်,19516
+Shan State (East),MMR016,ရှမ်းပြည်နယ်,TACHILEIK,MMR016D003,တာချီလိတ်ခရိုင်,Mongyawng,MMR016011,မိုင်းယောင်း,25024
+Shan State (East),MMR016,ရှမ်းပြည်နယ်,TACHILEIK,MMR016D003,တာချီလိတ်ခရိုင်,Tachileik,MMR016009,တာချီလိတ်,109827
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,TAUNGGYI,MMR014D001,တောင်ကြီးခရိုင်,Kalaw,MMR014005,ကလော,119044
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,TAUNGGYI,MMR014D001,တောင်ကြီးခရိုင်,Lawksawk,MMR014008,ရပ်စောက်,100966
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,TAUNGGYI,MMR014D001,တောင်ကြီးခရိုင်,Nyaungshwe,MMR014002,ညောင်ရွှေ,124507
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,TAUNGGYI,MMR014D001,တောင်ကြီးခရိုင်,Pekon,MMR014010,ဖယ်ခုံ,57068
+Shan State (South),MMR014,ရှမ်းပြည်နယ်,TAUNGGYI,MMR014D001,တောင်ကြီးခရိုင်,Taunggyi,MMR014001,တောင်ကြီး,278846
+Tanintharyi Region,MMR006,တနသာရီတိုင်းဒေသကြီး,DAWEI,MMR006D001,ထားဝယ်ခရိုင်,Dawei,MMR006001,ထားဝယ်,107933
+Tanintharyi Region,MMR006,တနသာရီတိုင်းဒေသကြီး,DAWEI,MMR006D001,ထားဝယ်ခရိုင်,Launglon,MMR006002,လောင်းလုံ,113636
+Tanintharyi Region,MMR006,တနသာရီတိုင်းဒေသကြီး,DAWEI,MMR006D001,ထားဝယ်ခရိုင်,Thayetchaung,MMR006003,သရက်ချောင်း,96991
+Tanintharyi Region,MMR006,တနသာရီတိုင်းဒေသကြီး,DAWEI,MMR006D001,ထားဝယ်ခရိုင်,Yebyu,MMR006004,ရေဖြူ,99983
+Tanintharyi Region,MMR006,တနသာရီတိုင်းဒေသကြီး,MYEIK,MMR006D002,မြိတ်ခရိုင်,Myeik,MMR006005,မြိတ်,171634
+Tanintharyi Region,MMR006,တနသာရီတိုင်းဒေသကြီး,MYEIK,MMR006D002,မြိတ်ခရိုင်,Kyunsu,MMR006006,ကျွန်းစု,99641
+Tanintharyi Region,MMR006,တနသာရီတိုင်းဒေသကြီး,MYEIK,MMR006D002,မြိတ်ခရိုင်,Palaw,MMR006007,ပုလော,90419
+Tanintharyi Region,MMR006,တနသာရီတိုင်းဒေသကြီး,MYEIK,MMR006D002,မြိတ်ခရိုင်,Tanintharyi,MMR006008,တနင်္သာရီ,63373
+Tanintharyi Region,MMR006,တနသာရီတိုင်းဒေသကြီး,KAWTHOUNG,MMR006D003,ကော့သောင်းခရိုင်,Kawthoung,MMR006009,ကော့သောင်း,96344
+Tanintharyi Region,MMR006,တနသာရီတိုင်းဒေသကြီး,KAWTHOUNG,MMR006D003,ကော့သောင်းခရိုင်,Bokpyin,MMR006010,ဘုတ်ပြင်း,45054
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,EAST YANGON,MMR013D002,ရန်ကုန်အရှေ့ပိုင်းခရိုင်,Botahtaung,MMR013017,ဗိုလ်တထောင်,39776
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,EAST YANGON,MMR013D002,ရန်ကုန်အရှေ့ပိုင်းခရိုင်,Dagon Myothit (East),MMR013020,ဒဂုံမြို့သစ်အရှေ့ပိုင်း,110949
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,EAST YANGON,MMR013D002,ရန်ကုန်အရှေ့ပိုင်းခရိုင်,Dagon Myothit (North),MMR013019,ဒဂုံမြို့သစ်မြောက်ပိုင်း,124126
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,EAST YANGON,MMR013D002,ရန်ကုန်အရှေ့ပိုင်းခရိုင်,Dagon Myothit (Seikkan),MMR013021,ဒဂုံမြို့သစ်ဆိပ်ကမ်း,82304
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,EAST YANGON,MMR013D002,ရန်ကုန်အရှေ့ပိုင်းခရိုင်,Dagon Myothit (South),MMR013018,ဒဂုံမြို့သစ်တောင်ပိုင်း,174041
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,EAST YANGON,MMR013D002,ရန်ကုန်အရှေ့ပိုင်းခရိုင်,Dawbon,MMR013014,ဒေါပုံ,41606
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,EAST YANGON,MMR013D002,ရန်ကုန်အရှေ့ပိုင်းခရိုင်,Mingalartaungnyunt,MMR013022,မင်္ဂလာတောင်ညွန့်,82138
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,EAST YANGON,MMR013D002,ရန်ကုန်အရှေ့ပိုင်းခရိုင်,North Okkalapa,MMR013012,မြောက်ဥက္ကလာပ,224099
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,EAST YANGON,MMR013D002,ရန်ကုန်အရှေ့ပိုင်းခရိုင်,Pazundaung,MMR013016,ပုဇွန်တောင်,31056
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,EAST YANGON,MMR013D002,ရန်ကုန်အရှေ့ပိုင်းခရိုင်,South Okkalapa,MMR013011,တောင်ဥက္ကလာပ,191899
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,EAST YANGON,MMR013D002,ရန်ကုန်အရှေ့ပိုင်းခရိုင်,Tamwe,MMR013015,တာမွေ,92987
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,EAST YANGON,MMR013D002,ရန်ကုန်အရှေ့ပိုင်းခရိုင်,Thaketa,MMR013013,သာကေတ,131811
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,EAST YANGON,MMR013D002,ရန်ကုန်အရှေ့ပိုင်းခရိုင်,Thingangyun,MMR013009,သင်္ဃန်းကျွန်း,131586
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,EAST YANGON,MMR013D002,ရန်ကုန်အရှေ့ပိုင်းခရိုင်,Yankin,MMR013010,ရန်ကင်း,66079
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,NORTH YANGON,MMR013D001,ရန်ကုန်မြောက်ပိုင်းခရိုင်,Hlaingtharya,MMR013008,လှိုင်သာယာ,454307
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,NORTH YANGON,MMR013D001,ရန်ကုန်မြောက်ပိုင်းခရိုင်,Hlegu,MMR013004,လှည်းကူး,172188
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,NORTH YANGON,MMR013D001,ရန်ကုန်မြောက်ပိုင်းခရိုင်,Hmawbi,MMR013003,မှော်ဘီ,159716
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,NORTH YANGON,MMR013D001,ရန်ကုန်မြောက်ပိုင်းခရိုင်,Htantabin,MMR013006,ထန်းတပင်,95713
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,NORTH YANGON,MMR013D001,ရန်ကုန်မြောက်ပိုင်းခရိုင်,Insein,MMR013001,အင်းစိန်,185718
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,NORTH YANGON,MMR013D001,ရန်ကုန်မြောက်ပိုင်းခရိုင်,Mingaladon,MMR013002,မင်္ဂလာဒုံ,262308
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,NORTH YANGON,MMR013D001,ရန်ကုန်မြောက်ပိုင်းခရိုင်,Shwepyithar,MMR013007,ရွှေပြည်သာ,216825
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,NORTH YANGON,MMR013D001,ရန်ကုန်မြောက်ပိုင်းခရိုင်,Taikkyi,MMR013005,တိုက်ကြီး,218555
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,SOUTH YANGON,MMR013D003,ရန်ကုန်တောင်ပိုင်းခရိုင်,Cocokyun,MMR013032,ကိုကိုးကျွန်း,1573
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,SOUTH YANGON,MMR013D003,ရန်ကုန်တောင်ပိုင်းခရိုင်,Dala,MMR013030,ဒလ,113594
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,SOUTH YANGON,MMR013D003,ရန်ကုန်တောင်ပိုင်းခရိုင်,Kawhmu,MMR013028,ကော့မှုး,92138
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,SOUTH YANGON,MMR013D003,ရန်ကုန်တောင်ပိုင်းခရိုင်,Kayan,MMR013026,ခရမ်း,119217
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,SOUTH YANGON,MMR013D003,ရန်ကုန်တောင်ပိုင်းခရိုင်,Kungyangon,MMR013029,ကွမ်းခြံကုန်း,83761
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,SOUTH YANGON,MMR013D003,ရန်ကုန်တောင်ပိုင်းခရိုင်,Kyauktan,MMR013024,ကျောက်တန်း,129856
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,SOUTH YANGON,MMR013D003,ရန်ကုန်တောင်ပိုင်းခရိုင်,Seikgyikanaungto,MMR013031,ဆိပ်ကြီးခနောင်တို,26715
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,SOUTH YANGON,MMR013D003,ရန်ကုန်တောင်ပိုင်းခရိုင်,Thanlyin,MMR013023,သန်လျှင်,175723
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,SOUTH YANGON,MMR013D003,ရန်ကုန်တောင်ပိုင်းခရိုင်,Thongwa,MMR013025,သုံးခွ,120341
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,SOUTH YANGON,MMR013D003,ရန်ကုန်တောင်ပိုင်းခရိုင်,Twantay,MMR013027,တွံတေး,158671
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,WEST YANGON,MMR013D004,ရန်ကုန်အနောက်ပိုင်းခရိုင်,Ahlone,MMR013037,အလုံ,46286
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,WEST YANGON,MMR013D004,ရန်ကုန်အနောက်ပိုင်းခရိုင်,Bahan,MMR013044,ဗဟန်း,62006
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,WEST YANGON,MMR013D004,ရန်ကုန်အနောက်ပိုင်းခရိုင်,Dagon,MMR013043,ဒဂုံ,24937
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,WEST YANGON,MMR013D004,ရန်ကုန်အနောက်ပိုင်းခရိုင်,Hlaing,MMR013040,လှိုင်,116324
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,WEST YANGON,MMR013D004,ရန်ကုန်အနောက်ပိုင်းခရိုင်,Kamaryut,MMR013041,ကမာရွတ်,58667
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,WEST YANGON,MMR013D004,ရန်ကုန်အနောက်ပိုင်းခရိုင်,Kyauktada,MMR013033,ကျောက်တံတား,23290
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,WEST YANGON,MMR013D004,ရန်ကုန်အနောက်ပိုင်းခရိုင်,Kyeemyindaing,MMR013038,ကြည့်မြင်တိုင်,69814
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,WEST YANGON,MMR013D004,ရန်ကုန်အနောက်ပိုင်းခရိုင်,Lanmadaw,MMR013035,လမ်းမတော်,33941
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,WEST YANGON,MMR013D004,ရန်ကုန်အနောက်ပိုင်းခရိုင်,Latha,MMR013036,လသာ,22775
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,WEST YANGON,MMR013D004,ရန်ကုန်အနောက်ပိုင်းခရိုင်,Mayangone,MMR013042,မရမ်းကုန်း,130369
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,WEST YANGON,MMR013D004,ရန်ကုန်အနောက်ပိုင်းခရိုင်,Pabedan,MMR013034,ပန်းပဲတန်း,27207
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,WEST YANGON,MMR013D004,ရန်ကုန်အနောက်ပိုင်းခရိုင်,Sanchaung,MMR013039,စမ်းချောင်း,62029
+Yangon Region,MMR013,ရန်ကုန်တိုင်းဒေသကြီး,WEST YANGON,MMR013D004,ရန်ကုန်အနောက်ပိုင်းခရိုင်,Seikkan,MMR013045,ဆိပ်ကမ်း,1950
